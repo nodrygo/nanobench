@@ -1,5 +1,5 @@
-for 10 run  see factest.py 
-limited to fact(12) because of Red limitation 
+iexec 10  run  see file  factest.sh  
+limit to fact(12) because of Red limitation 
 
 
 ****************************
