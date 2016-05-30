@@ -21,6 +21,12 @@ real    0m0.258s
 user    0m0.244s
 sys     0m0.000s
 ****************************
+Red/System compiled
+
+real    0m0.018s
+user    0m0.000s
+sys     0m0.000s
+****************************
 Racket interpreted
 
 real    0m2.245s
