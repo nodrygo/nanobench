@@ -1,0 +1,53 @@
+for 10 run  see factest.py 
+limited to fact(12) because of Red limitation 
+
+
+****************************
+Nim compiled
+
+real    0m0.004s
+user    0m0.000s
+sys     0m0.000s
+****************************
+Red intepreted
+
+real    0m1.427s
+user    0m1.340s
+sys     0m0.040s
+****************************
+Red compiled
+
+real    0m0.258s
+user    0m0.244s
+sys     0m0.000s
+****************************
+Racket interpreted
+
+real    0m2.245s
+user    0m1.948s
+sys     0m0.280s
+****************************
+Racket compiled (raco / no type) 
+
+real    0m1.478s
+user    0m1.340s
+sys     0m0.128s
+****************************
+Python 2 interpreted
+
+real    0m0.150s
+user    0m0.120s
+sys     0m0.004s
+****************************
+Python 3 interpreted
+
+real    0m0.218s
+user    0m0.192s
+sys     0m0.012s
+****************************
+Spry
+
+real    0m18.510s
+user    0m18.504s
+sys     0m0.016s
+****************************

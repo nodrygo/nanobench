@@ -1,0 +1,9 @@
+#!/usr/bin/env spry
+
+# A recursive factorial
+factorial = func [ifelse (:n > 0) [n * factorial (n - 1)] [1]]
+
+# Do it over and over :)
+1000 timesRepeat: [x = 0 12  timesRepeat: [ x = (x + 1)  factorial x]]
+
+echo factorial 12
